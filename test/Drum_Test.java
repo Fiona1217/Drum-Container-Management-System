@@ -1,13 +1,3 @@
-/* File name: Drum_Test.java
- * Author: Fiona Ang, 041151067
- * Course: CST8284 – OOP
- * Assignment: Assignment 2
- * Due date: March 23, 2025 11:59 PM
- * Professor: Amal Ibrahim
- * Purpose: This class contains the main method.
- * Class list: Drum, FlammableDrum, ToxicDrum, DrumPanel, Drum_Test
- */
-
 /**
  * DESCRIPTION: 
  * @version: openjdk 21.0.4 2024-07-16 LTS
