@@ -1,14 +1,3 @@
-/* File name: Drum.java
- * Author: Fiona Ang, 041151067
- * Course: CST8284 – OOP
- * Assignment: Assignment 2
- * Due date: March 23, 2025 11:59 PM
- * Professor: Amal Ibrahim
- * Purpose: This class contains the get, set, and worker methods for fileSize 
- * and downloadLink of Drum.
- * Class list: Drum, FlammableDrum, ToxicDrum.
- */
-
 /**
  * DESCRIPTION: 
  * @version: openjdk 21.0.4 2024-07-16 LTS
@@ -19,12 +8,6 @@
 
 package domain;
 
-/**
- * Sample Drum class for test purposes.
- * This class does not implement the UML class diagram specifications.
- * You must modify this class to adhere to the UML specs.
- * Hint: the Drum class contains an abstract method, "capacity()".
- */
 public abstract class Drum {
 	/**
 	 * Height of Drum.
